@@ -1,2 +1,3 @@
 # git-demo
-making for only understanding the concepts of git
+Making for only understanding the concepts of git
+Author- Rohan Rana
